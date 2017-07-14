@@ -1,0 +1,40 @@
+* {
+  font-family: Helvetica;
+}
+.header{
+  color: white;
+  background-image:url("https://raw.githubusercontent.com/obeezyjay/broadway/master/resources/the-flatiron-building.png");
+  text-align: center;
+}
+.page{
+  text-align: center;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
+}
+span {
+  font-size: 11px;
+  padding-right: 5px;
+}
+.footer{
+  display: inline-block;
+  text-align: left;
+  background-color: dimgray;
+}
+#designed{
+  color: white;
+  background-image:url("https://raw.githubusercontent.com/obeezyjay/broadway/master/resources/the-flatiron-building.png");
+}
